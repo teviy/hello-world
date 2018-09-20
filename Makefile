@@ -1,2 +1,2 @@
 all:
-  ./xmrig
+	./xmrig
